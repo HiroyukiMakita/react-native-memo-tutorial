@@ -1,0 +1,23 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build//Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/.expo-shared
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/assets
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/node_modules
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/babel.config.js
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/app.json
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/package-lock.json
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/package.json
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/tsconfig.json
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/.gitignore
+/Users/mackey/workspace/projects/react-native/react-native-memo-tutorial/react-native-memo-tutorial/App.tsx
+
+# macOS
+.DS_Store
